@@ -3,7 +3,8 @@ Jester's Privilege version 0.9.3
 it currently adds 15 jokers. 
 
 **_Common Jokers_**
-**Bobo Doll **
+
+**Bobo Doll**
 Joker gains 10 chips is played hand is the same as previously played hand
 
 **Draw Four**
@@ -25,6 +26,7 @@ Played cards are transformed into mult cards (doesn't work for current scored ha
 This Joker's sell value is equal to the combined sell value of the other owned Jokers
 
 **_Uncommon Jokers_**
+
 **Breakout**
 After 10 rounds, this joker gains 4x Mult (might be too strong for uncommon...)
 
@@ -44,6 +46,7 @@ When playing next card in the countdown, gain 0.1 xmult.
 Gain 0.5x mult for every seal card in deck (need to make it so only spawns when seal cards are present)
 
 **_Rare Jokers_**
+
 **Microtransaction**
 Every item purchased from the shop adds 0.05 Xmult
 

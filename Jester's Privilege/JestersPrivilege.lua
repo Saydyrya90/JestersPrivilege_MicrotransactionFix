@@ -299,12 +299,6 @@ SMODS.Joker {
                     return nil
                 end
                 context.other_card:set_ability(G.P_CENTERS.m_mult, nil, true)
-                    G.E_MANAGER:add_event(Event({
-                        func = function()
-                            context.other_card:juice_up()
-                            return true
-                        end
-                    })) 
             end
 		end
 end
